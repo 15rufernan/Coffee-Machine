@@ -1,7 +1,6 @@
-import data
+from data import menu
+from data import resources
 
-menu = data.MENU
-resources = data.resources
 
 
 def print_report():
